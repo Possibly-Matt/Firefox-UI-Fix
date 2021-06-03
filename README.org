@@ -6,8 +6,10 @@
 
 
 ** Introduction
-This is a fork of https://github.com/black7375/Firefox-UI-Fix but with only the icons.  
+This is a fork of https://github.com/black7375/Firefox-UI-Fix but with only the icons. 
 
+[[https://user-images.githubusercontent.com/12588174/120662253-e3b3c700-c480-11eb-92f1-f52599fa5e1f.png]]
+Dark theme example
 
 ** Installation Guide
 
@@ -25,3 +27,5 @@ This is a fork of https://github.com/black7375/Firefox-UI-Fix but with only the 
      - =Clear startup cache...= at =about:support=
 
 
+[[https://user-images.githubusercontent.com/12588174/120661940-a0595880-c480-11eb-9498-b7f3ea9ddfa9.png]]
+Default theme example. 
