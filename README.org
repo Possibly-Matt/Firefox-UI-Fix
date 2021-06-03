@@ -7,6 +7,7 @@
 
 ** Introduction
 This is a fork of https://github.com/black7375/Firefox-UI-Fix but with only the icons. 
+I also left in the tab divider (as seen in the first image)
 
 [[https://user-images.githubusercontent.com/12588174/120662253-e3b3c700-c480-11eb-92f1-f52599fa5e1f.png]]
 Dark theme example
