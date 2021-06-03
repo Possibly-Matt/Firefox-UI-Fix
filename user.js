@@ -8,10 +8,6 @@ user_pref("svg.context-properties.content.enabled", true);
 // CSS Blur Filter - 88 Above
 user_pref("layout.css.backdrop-filter.enabled", true);
 
-// Restore Compact Mode - 89 Above
-user_pref("browser.compactmode.show", true);
-
-
 // ** Useful Options ***********************************************************
 // Integrated calculator at urlbar
 user_pref("browser.urlbar.suggest.calculator", true);
