@@ -1,65 +1,13 @@
-* Lepton (old name: Proton Fix)
+* Lepton Icon Only Edition (old name: Proton Fix)
   :PROPERTIES:
   :TOC:      :include all
   :END:
 
-*Table of Contents*
-:CONTENTS:
-- [[#lepton-old-name-proton-fix][Lepton (old name: Proton Fix)]]
-  - [[#introduction][Introduction]]
-  - [[#installation-guide][Installation Guide]]
-  - [[#why-proton][WHY Proton?]]
-  - [[#why-not-proton][WHY Not Proton?]]
-  - [[#padding-comparisons][Padding Comparisons]]
-:END:
 
 
 ** Introduction
-  [[https://wiki.mozilla.org/Firefox/Proton][Proton]] is Firefox's new design, starting from Firefox 89. \\
-  [[https://design.firefox.com/photon/][Photon]] is the old design of Firefox which was used until version 88.
+This is a fork of https://github.com/black7375/Firefox-UI-Fix but with all but the icons removed.  
 
-  Proton's [[#why-proton][overall feel is good]], but there were a few things I [[#why-not-proton][didn't like]] and wanted to improve. \\
-  That's why this project was born, and Lepton to denote light theme layer.
-
-  /Disclaimer:/ It works *Firefox 89* and above!!
-  | *Wiki*      |                               |      |
-  | [[https://github.com/black7375/Firefox-UI-Fix/wiki/Screenshots][Screenshots]] | [[https://github.com/black7375/Firefox-UI-Fix/wiki/Compatibility-Issues-Solution][Compatibility Issues Solution]] | [[https://github.com/black7375/Firefox-UI-Fix/wiki/Tips][Tips]] |
-
-  [[https://user-images.githubusercontent.com/25581533/119774062-20942280-beb1-11eb-80aa-c18dd52f18d7.png]]
- 
- (Lepton's design :arrow_up:)
-
-  - *Icons*
-    - Panel
-  - *Padding Narrower*
-    - Tab
-    - Panel
-    - Menu
-    - Density
-  - *Tab Design*
-    - General:
-      - Connect with toolbar(Buttons like tabs)
-    - Selected:
-      - Box Shadow: Highlight the selected tab
-      - Bottom Rounding: Natural
-    - MultiSelected
-      - Adjust Color: Easily recognizable.
-    - Unselect:
-      - Divide Line: React to hover like chrome
-    - Clipped:
-      - Cleary Text: Adjusted clipped gradation
-    - Sound:
-      - Remove Second Label
-      - Show Favicon: Always show favicon
-    - Pinned:
-      - Combinded Close Button: Replace favicon to close button at selected
-    - Container Tab:
-      - Highlight line position: Displayed under favicon.
-  - *Activity Stream Design*
-    - Search Bar:
-      - Focused Shadow: Same as the accent color
-    - Icons:
-      - Size: Fill it up
 
 ** Installation Guide
 
@@ -76,40 +24,4 @@
   4. Restart
      - =Clear startup cache...= at =about:support=
 
-  If you prefer Photon, see [[https://github.com/black7375/Firefox-UI-Fix/tree/photon-style][Lepton's photon-style]].
 
-** WHY Proton?
-   I think a lot has improved.
-
-   [[https://user-images.githubusercontent.com/25581533/119773764-a6639e00-beb0-11eb-8023-498b6293c4b2.png]]
-
-   (Proton's design :arrow_up:)
-
-   - Neatly organized menu
-   - Icon beautiful enough to remind you of Edge
-   - Nice color scheme
-   - Satisfied Rounding
-   - Modal window & Scrollbar!!
-
-** WHY Not Proton?
-   However, there are also many flaws.
-
-   [[https://user-images.githubusercontent.com/25581533/119773812-b5e2e700-beb0-11eb-923c-55ae1a8ca249.png]]
-
-   (Photon's design :arrow_up:)
-
-   - Is it a tab or a button?
-   - Where are the menu icons?
-   - Icons in ActivityStream are too small
-   - Padding gaps are wide
-   - :warning: Address bar 3-point menu, screenshot moves to toolbar (can't fix)
-
-** Padding Comparisons
-  [[https://user-images.githubusercontent.com/25581533/120262626-8c97d180-c289-11eb-87a6-68e285d6d77c.png]]
-  [[https://user-images.githubusercontent.com/25581533/120253257-6ae11f00-c276-11eb-93cf-393f9845f30b.png]]
-  [[https://user-images.githubusercontent.com/25581533/118402352-1e33fc00-b659-11eb-89fc-3cb38207fe39.png]]
-  [[https://user-images.githubusercontent.com/25581533/116781623-930d1080-aa73-11eb-8fc7-14c238b73bfe.png]]
-
-  - Photon (Quantum)
-  - Proton
-  - Lepton
