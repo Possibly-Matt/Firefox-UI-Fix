@@ -21,12 +21,12 @@ Dark theme example
      - Go to =about:support=
      - Open Profile Directory
   3. Copy File
+      - Copy =user.js= at profile directory
      - Create =chrome= directory at profile
      - Copy other files at =chrome= directory
   4. Restart
      - =Clear startup cache...= at =about:support=
 
-I've removed the ~~Copy user.js at profile directory~~ step as I don't think you need it. At least I didn't for the icons to appear.  
 
 [[https://user-images.githubusercontent.com/12588174/120661940-a0595880-c480-11eb-9498-b7f3ea9ddfa9.png]]
 Default theme example. 
